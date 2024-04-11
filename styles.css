@@ -123,7 +123,7 @@ ul {
  .call .box {
     display: flex;
     background-color: #3882F6;
-    flex: 0.4;
+    flex: 0.5;
     justify-content: center;
     align-items: center;
     border-radius: 15px;
